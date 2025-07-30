@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Farrez Juan Verterry!
 
-<!--
-**FarrezJv/FarrezJv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fresh graduate from SMAN 1 Jakarta, currently gaining real-world experience through internships and self-initiated projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**SMAN 1 Jakarta**  
+Social Science Major (2022–2025)  
+Subjects: Sosiologi, Akuntansi, Geografi, Bahasa Jepang
+
+---
+
+## 💼 Internship Experience
+
+**Admin Intern – Kuprint Digital**  
+🗓️ July 2025
+(Short-term internship after graduation)
+---
+
+## 🧠 Skills
+- ✅ Microsoft Word, Excel, PowerPoint  
+- ✅ Canva (Design)  
+- ✅ Basic understanding of document handling & admin work
+- ✅ Basic Accounting (Dasar Akuntansi) 
+
+---
+
+## 📫 Contact
+- ✉️ Email: farrezjuan3@gmail.com
+- 📍 Jakarta Pusat  
